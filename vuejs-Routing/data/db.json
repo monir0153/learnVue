@@ -1,0 +1,61 @@
+{
+    "data": [
+        {
+            "id": 8,
+            "title": "Microsoft Surface Laptop 4",
+            "description": "Style and speed. Stand out on ...",
+            "price": 1499,
+            "discountPercentage": 10.23,
+            "rating": 4.43,
+            "stock": 68,
+            "brand": "Microsoft Surface",
+            "category": "laptops",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+            "images": [
+              "https://cdn.dummyjson.com/product-images/8/1.jpg",
+              "https://cdn.dummyjson.com/product-images/8/2.jpg",
+              "https://cdn.dummyjson.com/product-images/8/3.jpg",
+              "https://cdn.dummyjson.com/product-images/8/4.jpg",
+              "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Brown Perfume",
+            "description": "Royal_Mirage Sport Brown Perfu...",
+            "price": 40,
+            "discountPercentage": 15.66,
+            "rating": 4,
+            "stock": 52,
+            "brand": "Royal_Mirage",
+            "category": "fragrances",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg",
+            "images": [
+              "https://cdn.dummyjson.com/product-images/12/1.jpg",
+              "https://cdn.dummyjson.com/product-images/12/2.jpg",
+              "https://cdn.dummyjson.com/product-images/12/3.png",
+              "https://cdn.dummyjson.com/product-images/12/4.jpg",
+              "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Infinix INBOOK",
+            "description": "Infinix Inbook X1 Ci3 10th 8GB...",
+            "price": 1099,
+            "discountPercentage": 11.83,
+            "rating": 4.54,
+            "stock": 96,
+            "brand": "Infinix",
+            "category": "laptops",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+            "images": [
+              "https://cdn.dummyjson.com/product-images/9/1.jpg",
+              "https://cdn.dummyjson.com/product-images/9/2.png",
+              "https://cdn.dummyjson.com/product-images/9/3.png",
+              "https://cdn.dummyjson.com/product-images/9/4.jpg",
+              "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+            ]
+        }
+    ]
+}
